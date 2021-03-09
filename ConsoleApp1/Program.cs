@@ -47,6 +47,7 @@ namespace ConsoleApp1
             Console.WriteLine("area of square with side = 2.3 is " + sq2);
             int rec = area.Shape(2,3);
             Console.WriteLine("area of reactangle with side 2X3 is " + rec);
+           
         }
     }
 }
